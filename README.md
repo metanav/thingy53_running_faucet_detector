@@ -1,1 +1,1 @@
-# thingy53_running_faucet_detector
+# Thingy:53 Running Faucet Reminder
